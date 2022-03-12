@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ACER\\OneDrive\\Documentos\\GitHub\\Oauth2\\OAuth2WithGoogle\\OAuth2WithGoogle\\OAuth2WithGoogle.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ACER\\OneDrive\\Documentos\\GitHub\\Oauth2\\OAuth2WithGoogle\\OAuth2WithGoogle\\OAuth2WithGoogle.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ACER\\OneDrive\\Documentos\\GitHub\\Oauth2\\OAuth2WithGoogle\\OAuth2WithGoogle\\OAuth2WithGoogle.csproj",
+        "projectName": "OAuth2WithGoogle",
+        "projectPath": "C:\\Users\\ACER\\OneDrive\\Documentos\\GitHub\\Oauth2\\OAuth2WithGoogle\\OAuth2WithGoogle\\OAuth2WithGoogle.csproj",
+        "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ACER\\OneDrive\\Documentos\\GitHub\\Oauth2\\OAuth2WithGoogle\\OAuth2WithGoogle\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
